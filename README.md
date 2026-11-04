@@ -1,4 +1,4 @@
-# Google Maps-数据集-样本
+# Google Maps-dataset-samples
 
 <h2>包含 1001 家 Google Maps 商家的示例数据集</h2>
 
